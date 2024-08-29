@@ -1,4 +1,6 @@
 #!/bin/bash
+
+#Escape on err
 set -e
 
 # Variables

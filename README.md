@@ -1,2 +1,2 @@
-# adventure_tours
-This is a front end web dev project that showcases the power of CSS.
+# Adventure Tours
+This websiite beautifully showcases tour packages for a fictional tour guide company. It uses HTML and takes full advantage of the power of CSS.
